@@ -1,0 +1,225 @@
+#|
+  diamond\ mirroring keyboard layout
+  (read as diamond backslash)
+
+  NOTE: This is mainly a proof of concept and is not stable as there are bugs.
+  See the r134x7/diamond\ repository for more details and the lite version of the
+  keyboard layout:
+
+  This is a Kanata configuration file to run the diamond\ mirroring keyboard layout
+  with qwerty as the secondary keyboard layout by default.
+
+  An option to use Dvorak instead of qwerty is at the bottom of this file and will 
+  require editing this file to remove/add comment blocks on the secondary_layout blocks.
+
+  IMPORTANT:
+  This keyboard layout is currently only compatible with US keyboards.
+  Bugs may occur if you use a keyboard or language that uses the AltGr key in Windows.
+  Bugs may also occur if you use the process-unmapped-keys configuration,
+  keep reading below regarding process-unmapped-keys if you plan to use it.
+
+  I've also listed bugs encountered at the bottom of the file.
+|#
+
+;; the double semi-colon at the beginning of a line creates a single-line comment.
+
+#|
+  The "#" and "|" symbols used above and below in the order shown 
+  is to indicate when it starts and ends creating a multi-line comment block.
+|#
+
+#|
+Important links to know how to configure your Kanata configuration file.
+Kanata Configuration File Docs: https://github.com/jtroo/kanata/blob/main/docs/config.adoc
+Sample Configuration File: https://github.com/jtroo/kanata/blob/main/cfg_samples/kanata.kbd
+
+The following in this comment block is from the sample configuration file:
+  "Since it may be important for you to know, pressing and holding all of the
+  three following keys together at the same time will cause kanata to exit:
+
+    Left Control, Space, Escape
+
+  This is for the physical key input rather than after any remappings
+  that are done by kanata."
+|#
+
+#|
+From the above docs regarding defsrc:
+  "Your configuration file must have exactly one defsrc list. 
+  This defines the order of keys that the deflayer entries will operate on.
+  The defsrc configuration entry defines which of your key inputs will be 
+  processed by kanata and how the keys map to defined layers. 
+  Keys excluded from defsrc will not be processed by Kanata 
+  unless you have process-unmapped-keys yes in defcfg."
+
+  See below the defsrc block regarding unmapped keys.
+|#
+(defsrc
+  grv  1    2    3    4    5    6    7    8    9    0    -    =    bspc
+  tab  q    w    e    r    t    y    u    i    o    p    [    ]    \
+  caps a    s    d    f    g    h    j    k    l    ;    '    ret
+  lsft z    x    c    v    b    n    m    ,    .    /    rsft
+  lctl lmet lalt           spc            ralt rmet rctl
+)
+
+#|
+Important information from the docs regarding unmapped keys: 
+https://github.com/jtroo/kanata/blob/main/docs/config.adoc#introduction-defcfg
+
+  "The process-unmapped-keys option in defcfg is probably the most generally impactful option. 
+  Enabling this configuration makes kanata process keys that are not defined in defsrc. 
+  This might be useful if you are only mapping a few keys in defsrc instead of most of the keys on your keyboard.
+
+  By default, keys excluded from defsrc will not work in various scenarios. Some examples:
+  - The early hold for prior tap-hold-press actions will not
+  - Prior one-shot actions will not be released
+  fork and switch logic will not see the key
+  This option is disabled by default. 
+  The reason this is not enabled by default is because some keys may not work correctly if they are intercepted. 
+  A known issue being AltGr/ralt/Right Alt;
+  
+  Examples:
+    (defcfg process-unmapped-keys yes)  
+    (defcfg process-unmapped-keys (all-except lctl ralt)) 
+|#
+
+;; Think of these like variable names that will activate a function when a key is used
+
+(defalias
+  ;; setting up the layer-switch layers 
+  pri (layer-switch primary_layout)
+  sec (layer-switch secondary_layout)
+  
+  ;; Pressing and holding the backtick key for
+  ;; at least 200ms will switch the keyboard layout
+  grls (tap-hold-release 200 200 grv @sec) ;; switch to secondary_layout
+  grlp (tap-hold-release 200 200 grv @pri) ;; switch to primary_layout
+  
+  ;; layer-toggle is activated as long as the corresponding key is held
+  ;; This is used in the PRIMARY keyboard layout
+  ;; to make it easier to use shortcut keys that were
+  ;; designed for the SECONDARY keyboard layout 
+  ;; due to muscle memory
+  tgsec (layer-toggle secondary_layout)
+
+  ;; one-shot keys for ctrl, alt, etc
+  ;; these one-shot keys below are set that
+  ;; they remain active as long as they are pressed
+  ;; they timeout after 9ms of not being pressed.
+  ;; The short timeout is needed for toggling back
+  ;; from the secondary to the primary layout.
+  osla (one-shot-press 9 lalt)
+  oslc (one-shot-press 9 lctl)
+  osra (one-shot-press 9 ralt)
+  osrc (one-shot-press 9 rctl)
+  oslm (one-shot-press 9 lmet)
+  osrm (one-shot-press 9 rmet)
+
+  #|
+    Switch statements below will have the primary layout behave like the
+    secondary layout when pressing and holding the ctrl, alt and/or meta keys.
+  |#
+  laswt (switch
+    ((input-history real lalt 1)) @tgsec fallthrough
+    ((input-history real lalt 1)) @osla break
+  )
+
+  lcswt (switch
+    ((input-history real lctl 1)) @tgsec fallthrough    
+    ((input-history real lctl 1)) @oslc break
+  )
+
+  raswt (switch
+    ((input-history real ralt 1)) @tgsec fallthrough
+    ((input-history real ralt 1)) @osra break
+  )
+
+  rcswt (switch
+    ((input-history real rctl 1)) @tgsec fallthrough
+    ((input-history real rctl 1)) @osrc break
+  )
+
+  lmswt (switch
+    ((input-history real lmet 1)) @tgsec fallthrough
+    ((input-history real lmet 1)) @oslm break
+  )
+
+  rmswt (switch
+    ((input-history real rmet 1)) @tgsec fallthrough
+    ((input-history real rmet 1)) @osrm break
+  )
+)
+
+;; The first defined layer is the layer that will be active by default when
+;; kanata starts up.
+
+;; PRIMARY keyboard layout
+;; The primary keyboard layout below is the diamond\ keyboard layout
+
+(deflayer primary_layout 
+  @grls  1    2    3    4    5    6    7    8    9    0    -    =    bspc
+  tab  p    y    o    u    q    \    m    d    c    w    k    [    ]
+  bspc h    i    a    e    ;    j    r    t    s    n    v    ret
+  lsft x    .    ,    '    /    z    l    g    f    b    rsft
+  @lcswt @lmswt @laswt           spc            @raswt @rmswt @rcswt
+)
+
+;; SECONDARY keyboard layout
+;; The secondary keyboard layout below is the qwerty keyboard layout
+
+
+(deflayer secondary_layout
+  @grlp  1    2    3    4    5    6    7    8    9    0    -    =    bspc
+  tab  q    w    e    r    t    y    u    i    o    p    [    ]    \
+  caps a    s    d    f    g    h    j    k    l    ;    '    ret
+  lsft z    x    c    v    b    n    m    ,    .    /    rsft
+  lctl lmet lalt           spc            ralt rmet rctl
+)
+
+
+;;Below is an example of switching to a different SECONDARY keyboard layout such as Dvorak.
+;;Reminder that the @grlp key is the that key used to switch back to the primary_layout.
+;;The secondary_layout below is commented out because only one secondary keyboard layout 
+;;can run at a time. You have to comment out the above secondary_layout block before 
+;;removing the below comment block to use Dvorak instead of qwerty.
+
+;; SECONDARY keyboard layout
+;; The secondary keyboard layout below is the Dvorak keyboard layout
+
+#|
+(deflayer secondary_layout
+  @grlp  1    2    3    4    5    6    7    8    9    0    [    ]    bspc
+  tab  '    ,    .    p    y    f    g    c    r    l    /    =    \
+  caps a    o    e    u    i    d    h    t    n    s    -    ret
+  lsft ;    q    j    k    x    b    m    w    v    z    rsft
+  lctl lmet lalt           spc            ralt rmet rctl
+)
+|#
+
+#|
+  BUGS:
+  1. I tried testing out the AltGR key (pressing Right Ctrl and Right Alt in Windows) 
+  without using process-unmapped-keys and a bug would occur where the right ctrl key 
+  would become stuck even though it was not pressed. This caused the scroll wheel to zoom
+  instead of scrolling for example because of the right ctrl key being stuck.
+  A solution found online was to press all the ctrl and alt keys on your keyboard to fix the issue
+  only until you press AltGr again. Hence the warning at the top of the page recommending that this
+  Kanata Configuration File be only used with US keyboards.
+
+  2. I tried testing the "process-unmapped-keys yes" to test out using the function keys 
+  such as alt-f4 or alt-arrow up since they weren't mapped on the defsrc. They initially worked until I
+  must have pressed a key accidentally that caused my keyboard and mouse to not respond when trying
+  to do anything. I forgot that I was supposed to press Left Ctrl, Space and Escape to exit Kanata
+  because I was incorrectly pressing Left Shift instead of Space. I had to get the computer restarted
+  to resolve the issue. Hence the warning at the top of the page recommending that this Kanata
+  Configuration File should not use "process-unmapped-keys yes." I practiced forcefully exiting
+  Kanata with the Left Ctrl, Space and Escape command to not forget the key combination.
+
+  3. When pressing the Ctrl + Alt + Delete keys in Windows to open the Windows Security screen and you 
+  open the task manager for example, it will bring you back to the desktop screen. For some reason, the 
+  keyboard layout stays toggled in secondary_layout until you press the key you pressed first to enter 
+  Ctr + Alt + Delete, either you pressed the ctrl key or the alt key first, pressing it again will 
+  fix up the layer-toggle. If you pressed the ctrl key first and still hold it until you exit the
+  Windows Security Screen, then the toggle will work as intended but the bug is still there if you forget
+  to hold the key again when repeating the process.
+|#
