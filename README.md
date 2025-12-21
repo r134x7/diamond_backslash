@@ -118,7 +118,7 @@ L Pinky 1 | L Ring 2 | L Middle 3 | L Index  4 | R Index 7 | R Middle 8 | R Ring
 --- | --- | ---
 0.06% | 0.09% | 0.08% | 0.28% | 0.18% | 0.04% | 0.12% | 0.14%
 
-From this you can see that the worst fingers for same finger bigram frequency are the Left Index finger, then Right pinky, then the Right Index finger. This is expected since all three of these fingers have access to two columns and thus they each press up to six keys with the same finger.
+From this you can see that the worst fingers for same finger bigram frequency on the diamond\ layout are the Left Index finger, then the Right Index finger, then the Right pinky. This is expected since all three of these fingers have access to two columns and thus, they each press up to six keys with the same finger.
 
 It was intentional for me to have the most same finger bigrams to occur on the index fingers, I tried as much as I could to reduce same finger bigrams on the right pinky finger which is resting on the home row with the N key surrounded by lesser pressed keys for the right pinky finger.
 
@@ -149,9 +149,9 @@ Now that you have gotten an idea of how these keystrokes are analysed, you shoul
 
 Yes, a reminder that it was designed for an ergonomic keyboard where you can use your left thumb to press the 'R' key which is why an extra finger being used that is much stronger than the pinky really reduces the word effort score by a lot.
 
-When you compare only the keyboard layouts that are used on row-staggered keyboards, diamond\ ends up having some really interesting stats. A finger distance travelled of 202.5 which is only higher than Colemak's better score of 198.6.
+When you compare only the keyboard layouts that are used on row-staggered keyboards, diamond\ ends up having some really interesting stats. A finger distance travelled of 201.1 which is only higher than Colemak's better score of 198.6.
 
-I had to sacrifice a bit on the same finger bigrams which is why diamond\ rates at 1.11% compared to the others that are lower.
+I had to sacrifice a bit on the same finger bigrams which is why diamond\ rates at 0.98% compared to the others that are lower.
 
 The most interesting stat was how I signficantly improved Lateral Stretch Bigrams and Ring Finger Lateral Stretch Bigrams from gdmlk\ to diamond\, that diamond\ has a 0.02% for both categories is amazing especially when you compare it to the other keyboard layouts.
 
