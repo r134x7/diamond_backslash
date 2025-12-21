@@ -116,7 +116,7 @@ For Same Finger Bigrams this meant paying attention to which fingers were used m
 `Same Finger Bigrams frequency for each finger`
 L Pinky 1 | L Ring 2 | L Middle 3 | L Index  4 | R Index 7 | R Middle 8 | R Ring 9 | R Pinky 10
 --- | --- | ---
-0.10% | 0.09% | 0.08% | 0.28% | 0.18% | 0.04% | 0.12% | 0.22%
+0.06% | 0.09% | 0.08% | 0.28% | 0.18% | 0.04% | 0.12% | 0.14%
 
 From this you can see that the worst fingers for same finger bigram frequency are the Left Index finger, then Right pinky, then the Right Index finger. This is expected since all three of these fingers have access to two columns and thus they each press up to six keys with the same finger.
 

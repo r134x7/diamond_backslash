@@ -158,9 +158,9 @@ https://github.com/jtroo/kanata/blob/main/docs/config.adoc#introduction-defcfg
 
 (deflayer primary_layout 
   @grls  1    2    3    4    5    6    7    8    9    0    -    =    bspc
-  tab  p    y    o    u    q    \    m    d    c    w    k    [    ]
+  tab  p    y    o    u    q    \    m    d    c    w    x    [    ]
   bspc h    i    a    e    ;    j    r    t    s    n    v    ret
-  lsft x    .    ,    '    /    z    l    g    f    b    rsft
+  lsft k    .    ,    '    /    z    l    g    f    b    rsft
   @lcswt @lmswt @laswt           spc            @raswt @rmswt @rcswt
 )
 
