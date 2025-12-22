@@ -2,9 +2,10 @@
   diamond\ mirroring keyboard layout
   (read as diamond backslash)
 
+  WARNING: THIS IS AN EXPERIMENTAL VERSION AND CONTAINS UNRESOLVED BUGS.
+
   NOTE: This is mainly a proof of concept and is not stable as there are bugs.
-  See the r134x7/diamond\ repository for more details and the lite version of the
-  keyboard layout:
+  See the r134x7/diamond\ repository for more details keyboard layout:
 
   This is a Kanata configuration file to run the diamond\ mirroring keyboard layout
   with qwerty as the secondary keyboard layout by default.

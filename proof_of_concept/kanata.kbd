@@ -1,24 +1,9 @@
 #|
-  diamond\ mirroring keyboard layout (lite)
+  diamond\ mirroring keyboard layout
   (read as diamond backslash)
 
-  This is a lite version of the diamond\ mirroring keyboard layout where
-  the only feature removed to avoid bugs is the layer-toggle one-shot-press
-  that was created so that when pressing ctrl or alt for example the keyboard
-  would revert to QWERTY so that you don't need to build muscle memory for
-  activating shortcut keys.
-
-  You can still layer-switch via holding the grv key for 200ms although it
-  might not make for a good typing experience if you have to keep activating
-  it using muscle memory to then press ctrl+z on qwerty when just pressing
-  ctrl/alt would have activated the qwerty layout while the button was held.
-
-  Although the layout-toggle one-shot-press is removed, there is still the
-  possibility of there being bugs especially due to not every key being mapped.
-
   NOTE: This is mainly a proof of concept and is not stable as there are bugs.
-  See the r134x7/diamond\ repository for more details and the lite version of the
-  keyboard layout:
+  See the r134x7/diamond\ repository for more details:
 
   This is a Kanata configuration file to run the diamond\ mirroring keyboard layout
   with qwerty as the secondary keyboard layout by default.
@@ -158,5 +143,20 @@ https://github.com/jtroo/kanata/blob/main/docs/config.adoc#introduction-defcfg
 
 #|
   BUGS:
+  1. I tried testing out the AltGR key (pressing Right Ctrl and Right Alt in Windows) 
+  without using process-unmapped-keys and a bug would occur where the right ctrl key 
+  would become stuck even though it was not pressed. This caused the scroll wheel to zoom
+  instead of scrolling for example because of the right ctrl key being stuck.
+  A solution found online was to press all the ctrl and alt keys on your keyboard to fix the issue
+  only until you press AltGr again. Hence the warning at the top of the page recommending that this
+  Kanata Configuration File be only used with US keyboards.
 
+  2. I tried testing the "process-unmapped-keys yes" to test out using the function keys 
+  such as alt-f4 or alt-arrow up since they weren't mapped on the defsrc. They initially worked until I
+  must have pressed a key accidentally that caused my keyboard and mouse to not respond when trying
+  to do anything. I forgot that I was supposed to press Left Ctrl, Space and Escape to exit Kanata
+  because I was incorrectly pressing Left Shift instead of Space. I had to get the computer restarted
+  to resolve the issue. Hence the warning at the top of the page recommending that this Kanata
+  Configuration File should not use "process-unmapped-keys yes." I practiced forcefully exiting
+  Kanata with the Left Ctrl, Space and Escape command to not forget the key combination.
 |#
