@@ -26,8 +26,8 @@ The kanata.kbd file is to be used with Kanata which was created by [jtroo, link 
 ![diamond\\ image slideshow 16](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_16.jpg)
 ![diamond\\ image slideshow 17](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_17.jpg)
 ![diamond\\ image slideshow 18](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_18.jpg)
-![diamond\\ image slideshow 19](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_19.jpg)
 ![diamond\\ image slideshow 20](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_20.jpg)
+![diamond\\ image slideshow 19](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_19.jpg)
 
 ## The quick intro of the diamond\ keyboard layout
 
