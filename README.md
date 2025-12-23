@@ -2,9 +2,31 @@
 
 diamond\ (read as diamond backslash) is a mirroring keyboard layout.
 
-The full version is buggy but the lite version has one less feature to reduce that buggyness, read the kbd files in the proof of concept folders full/lite for the difference in features and bugs found.
+Currently only works by using a kbd file with the program Kanata, the kanata.kbd file is located in the proof of concept folder. Please read the file as there are bugs listed in it.
 
-The kanata.kbd files are to be used with Kanata which was created by [jtroo, link to Kanata repo here: https://github.com/jtroo/kanata](https://github.com/jtroo/kanata)
+The kanata.kbd file is to be used with Kanata which was created by [jtroo, link to Kanata repo here: https://github.com/jtroo/kanata](https://github.com/jtroo/kanata)
+
+## diamond\ explained in a slideshow
+
+![diamond\\ image slideshow 1](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_1.jpg)
+![diamond\\ image slideshow 2](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_2.jpg)
+![diamond\\ image slideshow 3](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_3.jpg)
+![diamond\\ image slideshow 4](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_4.jpg)
+![diamond\\ image slideshow 5](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_5.jpg)
+![diamond\\ image slideshow 6](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_6.jpg)
+![diamond\\ image slideshow 7](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_7.jpg)
+![diamond\\ image slideshow 8](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_8.jpg)
+![diamond\\ image slideshow 9](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_9.jpg)
+![diamond\\ image slideshow 10](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_10.jpg)
+![diamond\\ image slideshow 11](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_11.jpg)
+![diamond\\ image slideshow 12](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_12.jpg)
+![diamond\\ image slideshow 13](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_13.jpg)
+![diamond\\ image slideshow 14](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_14.jpg)
+![diamond\\ image slideshow 15](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_15.jpg)
+![diamond\\ image slideshow 16](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_16.jpg)
+![diamond\\ image slideshow 17](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_17.jpg)
+![diamond\\ image slideshow 18](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_18.jpg)
+![diamond\\ image slideshow 19](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_19.jpg)
 
 ## The quick intro of the diamond\ keyboard layout
 
