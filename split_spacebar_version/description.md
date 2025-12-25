@@ -2,7 +2,7 @@
 
 To help with improving your performance, if you have a keyboard with a split spacebar that can be remapped to a different key then it is suggested that you change the left spacebar to the letter 'O' as seen in conceptual image below.
 
-![Image of split spacebar on a row-staggered keyboard](..\images\diamond_backslash_slideshow_21.jpg)
+![Image of split spacebar on a row-staggered keyboard](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_slideshow_21.jpg)
 
 
 The reason to do this is that the effort that you use to move your left middle finger from the home row to the upper row to press the 'O' key is done very frequently as it is a vowel. By using a split spacebar with the letter 'O' key set to the left spacebar means you can use your left thumb to press 'O' and your right thumb on 'spacebar' as your thumbs rest on the split spacebar.

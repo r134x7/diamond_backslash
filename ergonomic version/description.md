@@ -4,7 +4,7 @@ This is an ergonomic version of the diamond\ mirroring keyboard layout to be use
 
 Here is a screenshot of the layout by using the analytical data from the webpage [created by cyanophage on github.](https://cyanophage.github.io/)
 
-![image of diamond\\ ergonomic version](..\images\keyboard_stats_3.jpg)
+![image of diamond\\ ergonomic version](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keyboard_stats_3.jpg)
 
 Note that you cannot remap keys on the above image, only swap them around. So the keys to pay attention to start from the column containing the 'P', 'H', 'K' keys and going all the way to the right end. The only key to pay attention to on the fourth row (bottom) is the 'E' key as that key is pressed with your left thumb.
 
@@ -19,5 +19,5 @@ Since HD Promethium was an ergonomic keyboard layout I mentioned in the backstor
 
 (The analytical data below came from the webpage [created by cyanophage on github.](https://cyanophage.github.io/))
 
-![image of diamond\\ ergonomic version](..\images\keyboard_stats_4.jpg)
-![image of diamond\\ ergonomic version](..\images\keyboard_stats_5.jpg)
+![image of diamond\\ ergonomic version](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keyboard_stats_4.jpg)
+![image of diamond\\ ergonomic version](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keyboard_stats_5.jpg)
