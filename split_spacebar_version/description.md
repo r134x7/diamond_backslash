@@ -7,17 +7,17 @@ To help with improving your performance, if you have a keyboard with a split spa
 
 The reason to do this is that the effort that you use to move your left middle finger from the home row to the upper row to press the 'O' key is done very frequently as it is a vowel. By using a split spacebar with the letter 'O' key set to the left spacebar means you can use your left thumb to press 'O' and your right thumb on 'spacebar' as your thumbs rest on the split spacebar.
 
-Using the analytical data from the webpage [created by cyanophage on github.](https://cyanophage.github.io/) the total finger distance of diamond\ is 201.1 (units) with the left middle finger measuring 39.51 (units), when swapping the 'o' and 'j' keys to highlight an example of a key that would rarely be pressed, the finger distance for the left middle finger drops by 24 units measuring 5.51. That is a dramatic decrease in finger distance because your left middle finger would only press the 'a' key or the 'comma' key and rarely the 'o' key in the upper row.
+Using the analytical data from the webpage [created by cyanophage on github.](https://cyanophage.github.io/) the total finger distance of diamond\ is 201.1 (units) with the left middle finger measuring 39.51 (units), when swapping the 'o' and 'j' keys to highlight an example of a key that would rarely be pressed, the finger distance for the left middle finger drops by 34 units measuring 5.51. That is a dramatic decrease in finger distance because your left middle finger would only press the 'a' key or the 'comma' key and rarely the 'o' key in the upper row.
 
 diamond\:
 - total finger distance: 201.1
 - left middle finger distance: 39.51
 
 diamond\ split spacebar version:
-- total finger distance: 177.1
+- total finger distance: 167.1
 - left middle finger distance: 5.51
 
-The split spacebar version gives approximately a 12% decrease in total finger distance due to the 86% decrease in finger distance of the left middle finger by using the left thumb instead of the 'O' key on the left spacebar.
+The split spacebar version gives approximately a 17% decrease in total finger distance due to the 86% decrease in finger distance of the left middle finger by using the left thumb instead of the 'O' key on the left spacebar.
 
 ## Examples of keyboards with split spacebars.
 
