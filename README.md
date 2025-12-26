@@ -238,3 +238,8 @@ Here is diamond\red
 ![image of diamond\\red keyboard layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_red.png)
 
 The kbd file for diamond\red is inside the proof of concepts folder under diamond_backslash_red
+
+Here are stats comparing diamond\ and diamond\red
+![image of diamond\\red keyboard layout stats part 1](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keyboard_stats_6.jpg)
+
+![image of diamond\\red keyboard layout stats part 2](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keyboard_stats_7.jpg)
