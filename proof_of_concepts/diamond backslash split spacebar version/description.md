@@ -24,8 +24,3 @@ The split spacebar version gives approximately a 17% decrease in total finger di
 I don't have a keyboard with a split spacebar so I can't check if it is possible to reprogram a split spacebar by using Kanata.
 
 The other possibility is that a keyboard with a split spacebar might have hardware inside that would allow you to remap the keys at the hardware level with firmware such as QMK or ZMK.
-
-Some examples of keyboards with split spacebars are (there might be other variations with less or more keys):
-- Keychron Q8 (Alice Layout) QMK Custom Mechanical Keyboard (listed as having QMK/VIA support)
-- Keychron K15 Max (Alice Layout) QMK Wireless Custom Mechanical Keyboard (listed as having QMK support via the Keychron Launcher web app)
-- Keychron Q11 QMK Custom Mechanical Keyboard (listed as having QMK/VIA support)
