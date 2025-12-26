@@ -228,3 +228,13 @@ It is currently set up as a kdb file to use with the program called [Kanata (lin
 ## diamond\ Split Spacebar version and diamond\ Ergonomic version
 
 I have added these versions into their own folders in this repository to describe how they work and any analytical data they provide and what keyboards they require.
+
+## diamond\red mirroring keyboard layout
+
+I have added a new keyboard layout alongside diamond\ 
+
+Here is diamond\red
+
+![image of diamond\\red keyboard layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_red.png)
+
+The kbd file for diamond\red is inside the proof of concepts folder under diamond_backslash_red
