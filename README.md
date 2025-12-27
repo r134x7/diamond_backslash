@@ -262,3 +262,11 @@ Part 1
 
 Part 2
 ![image of diamond\\red keyboard layout stats part 2](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keyboard_stats_7.jpg)
+
+## Which diamond\ layout to choose?
+
+The original diamond\ mirroring keyboard layout is a fine-tuned design but may be considered hard for people to use because it requires a lot of using the right pinky finger to reach the outer column of the keyboard to press the 'X' and 'V' keys, also, your left middle finger was used a lot to travel to the upper row to press the 'O' key.
+
+Hence, diamond\red was created to solve both those issues to provide a distinct but also easier experience giving a lower finger distance usage overall and even lower redirect rates but, now the extremely low for all types of lateral stretch bigram rates recorded became slightly increased for diamond\red and the same finger bigram rates doubled.
+
+Then I created diamond\black by taking what I learned diamond\red to make it an easier layout for people that prefer the original diamond\ but didn't like the pinky finger usage. That improvement was made but unfortunately the same finger bigram rate on the left index finger by slightly more than double however, overall it is still much less than diamond\red. All types of lateral stretch bigrams for diamond\black are higher than diamond\red but are still very low compared to other keyboard layouts. Still refer to the stats above. If you liked diamond\ but want an easier time for your right pinky finger then I recommend diamond\black.
