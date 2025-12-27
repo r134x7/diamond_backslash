@@ -237,9 +237,28 @@ Here is diamond\red
 
 ![image of diamond\\red keyboard layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_red.png)
 
+It is very different to diamond\ as four vowels are placed on the home row left-side and I removed the two letters from the outer column of the right pinky finger to make it easier to use.
+
 The kbd file for diamond\red is inside the proof of concepts folder under diamond_backslash_red
 
-Here are stats comparing diamond\ and diamond\red
+## diamond\black mirroring keyboard layout
+
+I have added a new keyboard layout alongside diamond\ 
+
+Here is diamond\black
+
+![image of diamond\\black keyboard layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_black.png)
+
+It is very similar to diamond\ but takes the diamond backslash pattern from diamond\red to reduce the right finger outer column pinky usage. So if you liked diamond\ but didn't like using your right pinky finger for pressing the X and V keys then I recommend diamond\black.
+
+The kbd file for diamond\black is inside the proof of concepts folder under diamond_backslash_red
+
+## keyboard layout stats for all diamond\ mirroring keyboard layouts on row-staggered keyboards
+
+These are stats only for the row-staggered keyboard layouts.
+
+Part 1
 ![image of diamond\\red keyboard layout stats part 1](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keyboard_stats_6.jpg)
 
+Part 2
 ![image of diamond\\red keyboard layout stats part 2](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keyboard_stats_7.jpg)
