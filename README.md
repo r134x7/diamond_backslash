@@ -253,15 +253,27 @@ It is very similar to diamond\ but takes the diamond backslash pattern from diam
 
 The kbd file for diamond\black is inside the proof of concepts folder under diamond_backslash_red
 
+## diamond\blue mirroring keyboard layout
+
+I have added a new keyboard layout alongside diamond\\, diamond\\red and diamond\\black. 
+
+Here is diamond\blue
+
+![image of diamond\\red keyboard layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_blue.png)
+
+It is like diamond\red but with a focus on lower same finger bigrams rather than on finger distance travelled, the 'O' key moves back up to the upper row and now the left ring finger will be doing more work than the left index finger. Care was taken to increase the Ring Finger Lateral Stretch Bigrams and decrease the (Middle finger to index finger) Lateral Stretch Bigrams as the latter feels so much worse to do repetitively compared to the former.
+
+The kbd file for diamond\blue is inside the proof of concepts folder under diamond_backslash_blue
+
 ## keyboard layout stats for all diamond\ mirroring keyboard layouts on row-staggered keyboards
 
 These are stats only for the row-staggered keyboard layouts.
 
 Part 1
-![image of diamond\\red keyboard layout stats part 1](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keyboard_stats_6.jpg)
+![image of all diamond\\ keyboard layout stats part 1](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keyboard_stats_6.jpg)
 
 Part 2
-![image of diamond\\red keyboard layout stats part 2](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keyboard_stats_7.jpg)
+![image of all diamond\\ keyboard layout stats part 2](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keyboard_stats_7.jpg)
 
 ## Which diamond\ layout to choose?
 
@@ -270,3 +282,5 @@ The original diamond\ mirroring keyboard layout is a fine-tuned design but may b
 Hence, diamond\red was created to solve both those issues to provide a distinct but also easier experience giving a lower finger distance usage overall and even lower redirect rates but, now the extremely low (all types of) lateral stretch bigram rates recorded became slightly increased for diamond\red and the overall same finger bigram rate doubled. Please look at the keyboard stats above for comparison. If you want an easier time for your right pinky finger and also less travelling for your left middle finger while providing a distinct experience then I recommend diamond\red.
 
 Then I created diamond\black by taking what I learned from diamond\red to make it an easier layout for people that prefer the original diamond\ but didn't like the pinky finger usage. That improvement was made but unfortunately the same finger bigram rate on the left index finger increased by slightly more than double however, overall it is still much less than diamond\red. All types of lateral stretch bigrams for diamond\black are higher than diamond\red but are still very low compared to other keyboard layouts. You can take a look at the keyboard stats above. If you liked diamond\ but you want an easier time for your right pinky finger and you want a keyboard layout that isn't too different from diamond\ (like diamond\red) then I recommend diamond\black.
+
+After spending time doing optimizations on diamond\red, I ended up creating what I imagined would be like diamond\red but less focused on finger distance travelled and more on lower same finger bigrams hence the creation of diamond\blue. It's quite different because your left middle and ring fingers will be doing more work than the left index finger.
