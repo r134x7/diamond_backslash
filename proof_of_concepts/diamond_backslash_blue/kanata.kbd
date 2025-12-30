@@ -1,11 +1,11 @@
 #|
-  diamond\ mirroring keyboard layout
-  (read as diamond backslash)
+  diamond\blue mirroring keyboard layout
+  (read as diamond backslash blue)
 
   NOTE: This is mainly a proof of concept and is not stable as there are bugs.
   See the r134x7/diamond_backslash repository for more details:
 
-  This is a Kanata configuration file to run the diamond\ mirroring keyboard layout
+  This is a Kanata configuration file to run the diamond\blue mirroring keyboard layout
   with qwerty as the secondary keyboard layout by default.
 
   An option to use Dvorak instead of qwerty is at the bottom of this file and will 
@@ -99,13 +99,13 @@ https://github.com/jtroo/kanata/blob/main/docs/config.adoc#introduction-defcfg
 ;; kanata starts up.
 
 ;; PRIMARY keyboard layout
-;; The primary keyboard layout below is the diamond\ keyboard layout
+;; The primary keyboard layout below is the diamond\blue keyboard layout
 
 (deflayer primary_layout 
   @grls  1    2    3    4    5    6    7    8    9    0    -    =    bspc
-  tab  p    y    o    u    q    \    m    d    c    w    x    [    ]
-  bspc h    i    a    e    ;    j    r    t    s    n    v    ret
-  lsft k    .    ,    '    /    z    l    g    f    b    rsft
+  tab  .    u    o    f    z    \    m    d    c    p    ;    [    ]
+  bspc i    e    a    h    q    v    r    t    s    n    '    ret
+  lsft ,    k    x    y    /    q    l    g    w    b    rsft
   lctl lmet lalt           spc            ralt rmet rctl
 )
 

@@ -3,7 +3,7 @@
   (read as diamond backslash black)
 
   NOTE: This is mainly a proof of concept and is not stable as there are bugs.
-  See the r134x7/diamond\ repository for more details:
+  See the r134x7/diamond_backslash repository for more details:
 
   This is a Kanata configuration file to run the diamond\black mirroring keyboard layout
   with qwerty as the secondary keyboard layout by default.
