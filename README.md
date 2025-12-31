@@ -259,9 +259,21 @@ I have added a new keyboard layout alongside diamond\\, diamond\\red and diamond
 
 Here is diamond\blue
 
-![image of diamond\\red keyboard layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_blue.png)
+![image of diamond\\blue keyboard layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_blue.png)
 
-It is like diamond\red but with a focus on lower same finger bigrams rather than on finger distance travelled, the 'O' key moves back up to the upper row and now the left ring finger will be doing more work than the left index finger. Care was taken to increase the Ring Finger Lateral Stretch Bigrams and decrease the (Middle finger to index finger) Lateral Stretch Bigrams as the latter feels so much worse to do repetitively compared to the former.
+It is like diamond\red while trying to reduce same finger bigrams and keeping finger distance travel as low as possible. The vowels on the home row have changed ordered which may be easier if you used the other layouts and not diamond\red. This layout has a balance of bigram roll ins and roll outs compared to diamond\red and is also slightly right hand dominant compared to diamond\red being right hand dominant.
+
+The kbd file for diamond\blue is inside the proof of concepts folder under diamond_backslash_blue
+
+## diamond\pink mirroring keyboard layout
+
+I have added a new keyboard layout alongside diamond\\, diamond\\red, diamond\\black and diamond\\blue. 
+
+Here is diamond\pink
+
+![image of diamond\\pink keyboard layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_pink.png)
+
+It is like diamond\black but styled like diamond\red. There is a focus on less same hand strings resulting in lower redirect rates. The X and J keys in the inner columns of the previously mentioned layouts changed to Q and V resulting in a slight increase in categories of lateral stretch bigrams and ring finger lateral stretch bigrams.
 
 The kbd file for diamond\blue is inside the proof of concepts folder under diamond_backslash_blue
 
