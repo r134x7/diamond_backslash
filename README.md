@@ -295,4 +295,11 @@ Hence, diamond\red was created to solve both those issues to provide a distinct 
 
 Then I created diamond\black by taking what I learned from diamond\red to make it an easier layout for people that prefer the original diamond\ but didn't like the pinky finger usage. That improvement was made but unfortunately the same finger bigram rate on the left index finger increased by slightly more than double however, overall it is still much less than diamond\red. All types of lateral stretch bigrams for diamond\black are higher than diamond\red but are still very low compared to other keyboard layouts. You can take a look at the keyboard stats above. If you liked diamond\ but you want an easier time for your right pinky finger and you want a keyboard layout that isn't too different from diamond\ (like diamond\red) then I recommend diamond\black.
 
-After spending time doing optimizations on diamond\red, I ended up creating what I imagined would be like diamond\red but less focused on finger distance travelled and more on lower same finger bigrams hence the creation of diamond\blue. It's quite different because your left middle and ring fingers will be doing more work than the left index finger.
+After spending time doing optimizations on diamond\red, I came up with a layout similar to it but did not want to replace diamond\red so it ended up becoming diamond\pink.
+
+I originally wanted diamond\blue to be like diamond\red but with a lower same finger bigram frequency however, I then focused on changing keys on both sides of the keyboard after understanding the bigram frequency tables to want a distribution that is 30% or less on each finger, unfortunately there was one spot recording 31% which was the best I could get.
+
+To summarize:
+- diamond\ and diamond\black are similar.
+- diamond\red and diamond\pink are similar.
+- diamond\blue is different to the others.
