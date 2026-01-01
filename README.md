@@ -31,7 +31,7 @@ The kanata.kbd file is to be used with Kanata which was created by [jtroo, link 
 
 ## The quick intro of the diamond\ keyboard layout
 
-![Image of the diamond\ keyboard layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash.png)
+![Image of the diamond\ keyboard layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_original.png)
 
 Things that make the diamond\ mirroring keyboard layout standout:
 - Designed to make the best out of the limitations and flaws of the row-staggered keyboard.
@@ -146,7 +146,7 @@ From this you can see that the worst fingers for same finger bigram frequency on
 It was intentional for me to have the most same finger bigrams to occur on the index fingers, I tried as much as I could to reduce same finger bigrams on the right pinky finger which is resting on the home row with the N key surrounded by lesser pressed keys for the right pinky finger.
 
 Here is a diamond\ heatmap from the website by cyanophage to illustrate that:
-![Image of diamond\ keyboard layout heatmap](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_heatmap.jpg)
+![Image of diamond\ keyboard layout heatmap](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_original_heatmap.jpg)
 
 Onto the scissor keystrokes and the delicate balance I mentioned. There are scissor keystrokes you do with your index finger on the upper or lower row followed by the middle finger in the remaining row or having all that be done in a different order. The most frequent scissor keystroke of that type is typing 'ld' which I preferred that if I was going to do a scissor keystroke, it would be using the strongest fingers in my hand.
 
