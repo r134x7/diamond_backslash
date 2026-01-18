@@ -4,6 +4,14 @@ diamond\ (read as diamond backslash) is a mirroring keyboard layout.
 
 Currently only works by using a kbd file with the program Kanata, the kanata.kbd file is located in the proof of concept folder. Please read the file as there are bugs listed in it.
 
+There are currently six diamond\ mirroring keyboard layouts:
+- diamond\
+- diamond\red
+- diamond\black
+- diamond\pink
+- diamond\blue
+- diamond\violet
+
 The kanata.kbd file is to be used with Kanata which was created by [jtroo, link to Kanata repo here: https://github.com/jtroo/kanata](https://github.com/jtroo/kanata)
 
 ## diamond\ explained in a slideshow
@@ -261,7 +269,7 @@ Here is diamond\blue
 
 ![image of diamond\\blue keyboard layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_blue.png)
 
-It is like diamond\red while trying to reduce same finger bigrams and keeping finger distance travel as low as possible. The vowels on the home row have changed ordered which may be easier if you used the other layouts and not diamond\red. This layout has a balance of bigram roll ins and roll outs compared to diamond\red and is also slightly right hand dominant compared to diamond\red being right hand dominant.
+It is like diamond\red except H is on the left side and the TSRN keys have changed order.
 
 The kbd file for diamond\blue is inside the proof of concepts folder under diamond_backslash_blue
 
@@ -273,9 +281,21 @@ Here is diamond\pink
 
 ![image of diamond\\pink keyboard layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_pink.png)
 
-It is like diamond\black but styled like diamond\red. There is a focus on less same hand strings resulting in lower redirect rates. The X and J keys in the inner columns of the previously mentioned layouts changed to Q and V resulting in a slight increase in categories of lateral stretch bigrams and ring finger lateral stretch bigrams.
+It is like an old iteration of diamond\\red but better which is why I then had to go back and change diamond\\red to be more similar to diamond\\ which then also changed diamond\\blue.
 
-The kbd file for diamond\blue is inside the proof of concepts folder under diamond_backslash_blue
+The kbd file for diamond\pink is inside the proof of concepts folder under diamond_backslash_blue
+
+## diamond\violet mirroring keyboard layout
+
+I have added a new keyboard layout alongside diamond\\, diamond\\red, diamond\\black, diamond\\blue and diamond\\violet. 
+
+Here is diamond\violet
+
+![image of diamond\\violet keyboard layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_violet.png)
+
+This one extends on an old iteration of diamond\\red by trying to decrease all types of Skip Bigrams as much as possible with the downside of Same Finger Bigrams and Redirect rates increasing.
+
+The kbd file for diamond\violet is inside the proof of concepts folder under diamond_backslash_blue
 
 ## keyboard layout stats for all diamond\ mirroring keyboard layouts on row-staggered keyboards
 
@@ -287,7 +307,21 @@ Part 1
 Part 2
 ![image of all diamond\\ keyboard layout stats part 2](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keyboard_stats_7.jpg)
 
+Part 3
+![image of all diamond\\ keyboard layout stats part 3](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keyboard_stats_8.jpg)
+
+Part 4
+![image of all diamond\\ keyboard layout stats part 4](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keyboard_stats_9.jpg)
+
+Part 5
+![image of all diamond\\ keyboard layout stats part 5](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keyboard_stats_10.jpg)
+
 ## Which diamond\ layout to choose?
+
+To summarize:
+- diamond\\ and diamond\\black are similar.
+- diamond\\red and diamond\\blue are similar.
+- diamond\\pink and diamond\\violet are similar.
 
 The original diamond\ mirroring keyboard layout is a fine-tuned design but may be considered hard for people to use because it requires a lot of using the right pinky finger to reach the outer column of the keyboard to press the 'X' and 'V' keys, also, your left middle finger was used a lot to travel to the upper row to press the 'O' key.
 
@@ -298,8 +332,3 @@ Then I created diamond\black by taking what I learned from diamond\red to make i
 After spending time doing optimizations on diamond\red, I came up with a layout similar to it but did not want to replace diamond\red so it ended up becoming diamond\pink.
 
 I originally wanted diamond\blue to be like diamond\red but with a lower same finger bigram frequency however, I then focused on changing keys on both sides of the keyboard after understanding the bigram frequency tables to want a distribution that is 30% or less on each finger, unfortunately there was one spot recording 31% which was the best I could get.
-
-To summarize:
-- diamond\ and diamond\black are similar.
-- diamond\red and diamond\pink are similar.
-- diamond\blue is different to the others.
