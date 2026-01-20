@@ -103,9 +103,9 @@ https://github.com/jtroo/kanata/blob/main/docs/config.adoc#introduction-defcfg
 
 (deflayer primary_layout 
   @grls  1    2    3    4    5    6    7    8    9    0    -    =    bspc
-  tab  p    u    o    y    z    \    m    d    c    f    ;    [    ]
-  bspc h    i    a    e    x    v    r    t    s    n    '    ret
-  lsft k    .    ,    j    /    q    l    g    w    b    rsft
+  tab  p    y    o    u    z    \    w    d    c    m    ;    [    ]
+  bspc h    i    a    e    x    v    r    t    s    n    j    ret
+  lsft k    .    ,    '    /    q    l    g    f    b    rsft
   lctl lmet lalt           spc            ralt rmet rctl
 )
 
