@@ -4,7 +4,7 @@ diamond\ (read as diamond backslash) is a mirroring keyboard layout.
 
 Currently only works by using a kbd file with the program Kanata, the kanata.kbd file is located in the proof of concept folder. Please read the file as there are bugs listed in it.
 
-There are currently seven diamond\ mirroring keyboard layouts:
+There are currently fourteen diamond\ mirroring keyboard layouts, seven that are optimized for row-staggered keyboards and seven that are optimized for ergonomic keyboards which you can view in the proof_of_concepts folder of this repository:
 - diamond\
 - diamond\red
 - diamond\black
@@ -12,6 +12,13 @@ There are currently seven diamond\ mirroring keyboard layouts:
 - diamond\blue
 - diamond\violet
 - diamond\green
+- diamond\ (ergonomic)
+- diamond\red (ergonomic)
+- diamond\black (ergonomic)
+- diamond\pink (ergonomic)
+- diamond\blue (ergonomic)
+- diamond\violet (ergonomic)
+- diamond\green (ergonomic)
 
 The kanata.kbd file is to be used with Kanata which was created by [jtroo, link to Kanata repo here: https://github.com/jtroo/kanata](https://github.com/jtroo/kanata)
 
