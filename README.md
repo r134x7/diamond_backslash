@@ -4,7 +4,7 @@ diamond\ (read as diamond backslash) is a mirroring keyboard layout.
 
 Currently only works by using a kbd file with the program Kanata, the kanata.kbd file is located in the proof of concept folder. Please read the file as there are bugs listed in it.
 
-There are currently fourteen diamond\ mirroring keyboard layouts, seven that are optimized for row-staggered keyboards and seven that are optimized for ergonomic keyboards which you can view in the proof_of_concepts folder of this repository:
+There are currently fifteen diamond\ mirroring keyboard layouts, seven that are optimized for row-staggered keyboards, those same seven layouts then optimized for ergonomic keyboards and then one layout that only works on ergonomic keyboards which you can view in the proof_of_concepts folder of this repository:
 - diamond\
 - diamond\red
 - diamond\black
@@ -19,6 +19,7 @@ There are currently fourteen diamond\ mirroring keyboard layouts, seven that are
 - diamond\blue (ergonomic)
 - diamond\violet (ergonomic)
 - diamond\green (ergonomic)
+- diamond\orange (ergonomic)
 
 The kanata.kbd file is to be used with Kanata which was created by [jtroo, link to Kanata repo here: https://github.com/jtroo/kanata](https://github.com/jtroo/kanata)
 
@@ -316,6 +317,16 @@ Here is diamond\green
 This one is like diamond\violet but for those that prefer three vowels on the home row and low same finger bigrams like diamond\\ and diamond\\black.
 
 The kbd file for diamond\green is inside the proof of concepts folder under diamond_backslash_green
+
+## diamond\orange (ergonomic) mirroring keyboard layout
+
+This diamond\ mirroring keyboard layout is different because it can only work on ergonomic keyboards since it strictly requires the use of a thumb key assigned to the letter 'E' 
+
+Here is diamond\orange (ergonomic)
+
+![image of diamond\\orange ergonomic keyboard layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_orange_ergonomic_heatmap.jpg)
+
+See the description file for diamond\orange (ergonomic) in the proof_of_concepts folder inside another folder titled "diamond_backslash_orange ergonomic version" in this repository.
 
 ## keyboard layout stats for all diamond\ mirroring keyboard layouts on row-staggered keyboards
 
