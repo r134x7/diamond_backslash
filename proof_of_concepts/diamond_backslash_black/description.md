@@ -23,3 +23,13 @@ Note: 1 to 4 are the left hand fingers from pinky to index for each column they 
 
 The following is meant to be read from the rows as they add up to 100%
 ![image of diamond\\black keyboard layout bigram frequency](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_black_bigram_frequency.jpg)
+
+## proof of having learned my layout
+
+screenshot taken from keybr dot com.
+
+diamond\black (old version), finished with J left to unlock on January 12th 2026:
+![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_black_1.jpg)
+
+diamond\black (latest version), unlocked all keys on January 26th 2026:
+![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_black_2.jpg)

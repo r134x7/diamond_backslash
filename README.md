@@ -363,3 +363,135 @@ Then I created diamond\black by taking what I learned from diamond\red to make i
 After spending time doing optimizations on diamond\red, I came up with a layout similar to it but did not want to replace diamond\red so it ended up becoming diamond\pink.
 
 I originally wanted diamond\blue to be like diamond\red but with a lower same finger bigram frequency however, I then focused on changing keys on both sides of the keyboard after understanding the bigram frequency tables to want a distribution that is 30% or less on each finger, unfortunately there was one spot recording 31% which was the best I could get.
+
+## Proof of having learned my layouts
+
+With making so many keyboard layouts, I spent time learning all the row-staggered versions via the website keybr dot com. Here are all of them below with the dates they were fully completed or finished without fully unlocking J to save for time.
+
+diamond\, unlocked all keys on January 24th 2026:
+![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_original_1.jpg)
+
+diamond\black (old version), finished with J left to unlock on January 12th 2026:
+![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_black_1.jpg)
+
+diamond\black (latest version), unlocked all keys on January 26th 2026:
+![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_black_2.jpg)
+
+diamond\red (old version), finished with J left to unlock on January 15th 2026:
+![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_red_1.jpg)
+
+diamond\red (second latest version before swapping the J and V keys), finished with J left to unlock on January 24th 2026:
+![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_red_2.jpg)
+
+diamond\blue (second latest version before swapping the J and V keys), finished with J left to unlock on January 25th 2026:
+![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_blue_1.jpg)
+
+diamond\pink (old version), finished with J left to unlock on January 17th 2026:
+![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_pink_1.jpg)
+
+diamond\pink (latest version), unlocked all keys on January 26th 2026:
+![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_pink_2.jpg)
+
+diamond\violet, finished with J left to unlock on January 25th 2026:
+![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_violet_1.jpg)
+
+diamond\green, finished with J left to unlock on January 21st 2026:
+![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_green_1.jpg)
+
+---
+
+Adding to the above, I kept track of the amount of days I spent learning each layout. It is in chronological order with diamond\ being the first layout I was learning on keybr dot com on day one to finishing with diamond\pink (latest version) on day 40.
+
+1:
+diamond\\
+- started on day 1 (for all layouts) 
+- took 3 days to reach E,N,I,A,R,L,T 
+- took 5 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C
+- took 11 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G
+- restarted
+- took 1 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,V,Q,J.
+- currently day 12 (for this layout) - All keys unlocked!
+- finished on day 38 (for all layouts)
+
+2:
+diamond\\red (old version)
+- started on day 11 (for all layouts)
+- took 1 day to reach E,N,I,A,R,L,T,O,S,U
+- took 2 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C
+- took 3 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G
+- took 4 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W
+- took 5 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F
+- took 6 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,Z,V,X,Q,J
+- currently day 6 (for this layout) - 1 letter left to unlock
+- finished on day 29 (for all layouts)
+
+3:
+diamond\\black (old version)
+- started on day 11
+- took 1 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C
+- took 3 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G
+- took 5 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H
+- took 7 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M
+- took 8 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B
+- took 10 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W
+- took 12 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F
+- took 13 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,Z,V
+- took 14 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,Z,V,X,Q,J
+- currently day 15 (for this layout) - 1 letter left to unlock
+- finished on day 26 (for all layouts)
+
+4:
+diamond\\pink
+- started on day 31 (for all layouts)
+- took 1 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,Z,V,X,Q,J
+- currently day 1 (for this layout) - 1 letter left to unlock
+- finished on day 31 (for all layouts)
+
+5:
+diamond\\red (second latest version before swapping the J and V keys)
+- started on day 33 (for all layouts)
+- took 1 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F
+- restarted
+- took 1 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W
+- took 3 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F
+- took 4 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,Z,V,X,Q,J
+- currently day 5 (for this layout) - 1 letter left to unlock
+- finished on day 38 (for all layouts)
+
+6:
+diamond\\violet
+- started on day 31 (for all layouts)
+- took 1 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F
+- took 2 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,Z,V,X,Q,J
+- restarted
+- took 1 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,Z,V,X,Q,J
+- currently day 1 (for this layout) - 1 letter left to unlock
+- finished on day 39 (for all layouts)
+
+7:
+diamond\\green
+- started on day 34 (for all layouts)
+- took 1 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F
+- took 2 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,Z,V,X,Q,J
+- currently day 2 (for this layout) - 1 letter left to unlock
+- finished on day 35 (for all layouts)
+
+8:
+diamond\\blue
+- started on day 38 (for all layouts)
+- took 1 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W
+- took 2 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,Z,V,X,Q,J
+- currently day 2 - 1 letter left to unlock
+- finished on day 39 (for all layouts)
+
+9:
+diamond\\black (latest version)
+- took 1 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,V,Q,J.
+- currently day 1 - All keys unlocked!
+- finished on day 40 (for all layouts)
+
+10:
+diamond\\pink (latest version)
+- took 1 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,V,Q,J.
+- currently day 1 - All keys unlocked!
+- finished on day 40 (for all layouts)
