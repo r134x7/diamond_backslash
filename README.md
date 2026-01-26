@@ -368,39 +368,39 @@ I originally wanted diamond\blue to be like diamond\red but with a lower same fi
 
 With making so many keyboard layouts, I spent time learning all the row-staggered versions via the website keybr dot com. Here are all of them below with the dates they were fully completed or finished without fully unlocking J to save for time.
 
-diamond\, unlocked all keys on January 24th 2026:
+diamond\\, unlocked all keys on January 24th 2026:
 ![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_original_1.jpg)
 
-diamond\black (old version), finished with J left to unlock on January 12th 2026:
+diamond\\black (old version), finished with J left to unlock on January 12th 2026:
 ![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_black_1.jpg)
 
-diamond\black (latest version), unlocked all keys on January 26th 2026:
+diamond\\black (latest version), unlocked all keys on January 26th 2026:
 ![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_black_2.jpg)
 
-diamond\red (old version), finished with J left to unlock on January 15th 2026:
+diamond\\red (old version), finished with J left to unlock on January 15th 2026:
 ![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_red_1.jpg)
 
-diamond\red (second latest version before swapping the J and V keys), finished with J left to unlock on January 24th 2026:
+diamond\\red (second latest version before swapping the J and V keys), finished with J left to unlock on January 24th 2026:
 ![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_red_2.jpg)
 
-diamond\blue (second latest version before swapping the J and V keys), finished with J left to unlock on January 25th 2026:
+diamond\\blue (second latest version before swapping the J and V keys), finished with J left to unlock on January 25th 2026:
 ![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_blue_1.jpg)
 
-diamond\pink (old version), finished with J left to unlock on January 17th 2026:
+diamond\\pink (old version), finished with J left to unlock on January 17th 2026:
 ![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_pink_1.jpg)
 
-diamond\pink (latest version), unlocked all keys on January 26th 2026:
+diamond\\pink (latest version), unlocked all keys on January 26th 2026:
 ![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_pink_2.jpg)
 
-diamond\violet, finished with J left to unlock on January 25th 2026:
+diamond\\violet, finished with J left to unlock on January 25th 2026:
 ![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_violet_1.jpg)
 
-diamond\green, finished with J left to unlock on January 21st 2026:
+diamond\\green, finished with J left to unlock on January 21st 2026:
 ![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_green_1.jpg)
 
 ---
 
-Adding to the above, I kept track of the amount of days I spent learning each layout. It is in chronological order with diamond\ being the first layout I was learning on keybr dot com on day one to finishing with diamond\pink (latest version) on day 40.
+Adding to the above, I kept track of the amount of days I spent learning each layout. It is in chronological order with diamond\\ being the first layout I was learning on keybr dot com on day one to finishing with diamond\\pink (latest version) on day 40.
 
 1:
 diamond\\
@@ -427,7 +427,7 @@ diamond\\red (old version)
 
 3:
 diamond\\black (old version)
-- started on day 11
+- started on day 11 (for all layouts)
 - took 1 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C
 - took 3 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G
 - took 5 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H
@@ -486,12 +486,14 @@ diamond\\blue
 
 9:
 diamond\\black (latest version)
+- started on day 40 (for all layouts)
 - took 1 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,V,Q,J.
 - currently day 1 - All keys unlocked!
 - finished on day 40 (for all layouts)
 
 10:
 diamond\\pink (latest version)
+- started on day 40 (for all layouts)
 - took 1 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,V,Q,J.
 - currently day 1 - All keys unlocked!
 - finished on day 40 (for all layouts)
