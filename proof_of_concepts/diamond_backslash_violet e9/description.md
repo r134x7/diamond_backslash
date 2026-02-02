@@ -1,16 +1,16 @@
-# diamond\blue ergonomic version
+# diamond\violet e9
 
-This is an ergonomic version of the diamond\blue mirroring keyboard layout to be used with ergonomic keyboards.
+This is a version of the diamond\violet mirroring keyboard layout to be used with keyboards that use split spacebars such as Alice Layout Keyboards or other ergonomic keyboards with thumb keys, e9 refers to the 'e' key being used with your thumb and '9' refers to using 9 fingers and 1 thumb and not 8 fingers and 1 thumb.
 
 Here is a screenshot of the layout by using the analytical data from the webpage [created by cyanophage on github.](https://cyanophage.github.io/)
 
-![image of diamond\\blue ergonomic version heatmap](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_blue_ergonomic_heatmap.jpg)
+![image of diamond\\violet e9 version heatmap](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_violet_e9_heatmap.jpg)
 
-![image of diamond\\blue ergonomic version bigram frequency](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_blue_ergonomic_bigram_frequency.jpg)
+![image of diamond\\violet e9 version bigram frequency](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_violet_e9_bigram_frequency.jpg)
 
 Note that you cannot remap keys on the above image, only swap them around.
 
-Just like the diamond\ ergonomic version, minimal changes are made to the diamond\blue ergonomic layout to improve the performance of the layout in ergonomic keyboards.
+Just like the diamond\ e9 version, minimal changes are made to the diamond\violet e9 layout to improve the performance of the layout in ergonomic keyboards.
 
 Since HD Promethium was an ergonomic keyboard layout I mentioned in the backstory of my readme in the repository, here are screenshots to show a comparison between HD Promethium and all of the diamond\ mirroring keyboard layout ergonomic versions:
 

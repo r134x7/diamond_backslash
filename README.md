@@ -4,7 +4,7 @@ diamond\ (read as diamond backslash) is a mirroring keyboard layout.
 
 Currently only works by using a kbd file with the program Kanata, the kanata.kbd file is located in the proof of concept folder. Please read the file as there are bugs listed in it.
 
-There are currently fifteen diamond\ mirroring keyboard layouts, seven that are optimized for row-staggered keyboards, those same seven layouts then optimized for ergonomic keyboards and then one layout that only works on ergonomic keyboards which you can view in the proof_of_concepts folder of this repository:
+There are currently fifteen diamond\ mirroring keyboard layouts, seven that are optimized for row-staggered keyboards, those same seven layouts then optimized for ergonomic keyboards and then one layout that only works on ergonomic keyboards (including Alice Layout Keyboards) which you can view in the proof_of_concepts folder of this repository:
 - diamond\
 - diamond\red
 - diamond\black
@@ -12,14 +12,14 @@ There are currently fifteen diamond\ mirroring keyboard layouts, seven that are 
 - diamond\blue
 - diamond\violet
 - diamond\green
-- diamond\ (ergonomic)
-- diamond\red (ergonomic)
-- diamond\black (ergonomic)
-- diamond\pink (ergonomic)
-- diamond\blue (ergonomic)
-- diamond\violet (ergonomic)
-- diamond\green (ergonomic)
-- diamond\orange (ergonomic)
+- diamond\ e9
+- diamond\red n9
+- diamond\black n9
+- diamond\pink n9
+- diamond\blue e9
+- diamond\violet e9
+- diamond\green n9
+- diamond\orange e9
 
 The kanata.kbd file is to be used with Kanata which was created by [jtroo, link to Kanata repo here: https://github.com/jtroo/kanata](https://github.com/jtroo/kanata)
 
@@ -497,3 +497,79 @@ diamond\\pink (latest version)
 - took 1 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,V,Q,J.
 - currently day 1 - All keys unlocked!
 - finished on day 40 (for all layouts)
+
+## Proof of having learned my layouts part 2: e9 and n9 versions
+
+With making so many keyboard layouts, I spent time learning some of the versions that require the use of a thumb key or split spacebar via the website keybr dot com.
+
+I used a Keychron K15 Max Alice Layout Keyboard to learn the e9 and n9 versions of my keyboard layouts.
+
+diamond\\black n9 (second latest version before swapping the ; and Z keys), unlocked all keys on January 30th 2026:
+![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_black_n9_1.jpg)
+
+diamond\\pink n9 (second latest version before swapping the X and K keys), unlocked all keys on January 31st 2026:
+![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_pink_n9_1.jpg)
+
+diamond\\pink n9 (latest version), unlocked all keys on February 2nd 2026:
+![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_pink_n9_2.jpg)
+
+diamond\\red n9 (latest version), finished with J left to unlock on January 31st 2026:
+![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_red_n9_1.jpg)
+
+diamond\\orange e9 (latest version), finished with Q and J left to unlock on February 2nd 2026:
+![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_orange_e9_1.jpg)
+
+---
+
+Adding to the above, I kept track of the amount of days I spent learning each layout.
+
+1:
+diamond\black n9 (second latest version before swapping the ; and Z keys)
+started on day 1
+took 1 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G
+took 2 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W
+restarted
+took 1 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,Z,V,Q,J.
+---
+currently day 3 (for this layout) - All keys unlocked!
+finished on day 3 (for all layouts)
+
+2:
+diamond\pink n9 
+started on day 4 (for all layouts)
+took 1 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,Z,V,X,Q,J.
+restarted
+took 1 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,Z,V,X,Q,J.
+
+currently day 2 (for this layout) - All keys unlocked! (twice)
+finished on day 7 (for all layouts)
+
+3:
+diamond\red n9
+started on day 4 (for all layouts)
+took 1 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,Z,V,X,Q,J
+
+currently day 1 (for this layout) - 1 letter left to unlock
+finished on day 4 (for all layouts)
+
+4:
+diamond\violet e9
+started on day 4 (for all layouts)
+took 1 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C
+
+currently day 1 (for this layout) - 14 letters left to unlock
+
+5:
+diamond\ e9
+started on day 5 (for all layouts)
+took 1 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P
+
+currently day 1 (for this layout) - 11 letters left to unlock
+
+6:
+diamond\orange e9
+started on day 5 (for all layouts)
+took 1 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P
+took 2 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,Z,V,X,Q
+
+currently day 6 (for this layout) - 2 letters left to unlock

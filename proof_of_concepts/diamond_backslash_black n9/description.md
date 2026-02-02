@@ -1,6 +1,6 @@
-# diamond\black ergonomic version
+# diamond\black n9
 
-This is an ergonomic version of the diamond\black mirroring keyboard layout to be used with ergonomic keyboards.
+This is a version of the diamond\black mirroring keyboard layout to be used with keyboards that use split spacebars such as Alice Layout Keyboards or other ergonomic keyboards with thumb keys, n9 refers to the 'n' key being used with your thumb and '9' refers to using 9 fingers and 1 thumb and not 8 fingers and 1 thumb.
 
 Here is a screenshot of the layout by using the analytical data from the webpage [created by cyanophage on github.](https://cyanophage.github.io/)
 

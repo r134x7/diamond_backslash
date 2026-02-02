@@ -1,4 +1,6 @@
-# diamond\orange ergonomic version
+# diamond\orange e9
+
+This is a version of the diamond\orange mirroring keyboard layout to be used with keyboards that use split spacebars such as Alice Layout Keyboards or other ergonomic keyboards with thumb keys, e9 refers to the 'e' key being used with your thumb and '9' refers to using 9 fingers and 1 thumb and not 8 fingers and 1 thumb.
 
 The diamond\orange mirroring keyboard layout can only work with ergonomic keyboards hence there is no row-staggered version because this keyboard layout strictly requires a thumb key for the letter 'E' to work.
 
@@ -6,21 +8,21 @@ Here are screenshots of the layout by using the analytical data from the webpage
 
 ## INITIAL VERSION
 
-![image of diamond\\orange ergonomic version initial heatmap](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_orange_ergonomic_initial_heatmap.jpg)
+![image of diamond\\orange e9 version initial heatmap](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_orange_ergonomic_initial_heatmap.jpg)
 
-![image of diamond\\orange ergonomic version initial bigram frequency](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_orange_ergonomic_initial_bigram_frequency.jpg)
+![image of diamond\\orange e9 version initial bigram frequency](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_orange_ergonomic_initial_bigram_frequency.jpg)
 
 ## LATEST VERSION
 
-![image of diamond\\orange ergonomic version latest heatmap](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_orange_ergonomic_latest_heatmap.jpg)
+![image of diamond\\orange e9 version latest heatmap](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_orange_e9_latest_heatmap.jpg)
 
-![image of diamond\\orange ergonomic version latest bigram frequency](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_orange_ergonomic_latest_bigram_frequency.jpg)
+![image of diamond\\orange e9 version latest bigram frequency](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_orange_e9_latest_bigram_frequency.jpg)
 
 Note that you cannot remap keys on the above image, only swap them around.
 
-How did this layout happen? I was looking at the finger distance travelled measurements and was impressed at how diamond\ ergonomic was faster than every other diamond\ ergonomic layout despite it being the first one I created.
+How did this layout happen? I was looking at the finger distance travelled measurements and was impressed at how diamond\ e9 was faster than every other diamond\ e9 layout despite it being the first one I created.
 
-I tried to see if I could make diamond\pink ergonomic faster since its row-staggered version is the fastest but I couldn't. Then I went to analyze the diamond\ ergonomic layout and I thought, "What if I tried to create the right side layout from the ergonomic versions of diamond\red, diamond\black and diamond\pink while still having 'E' as the thumb key for diamond\ ergonomic?"
+I tried to see if I could make diamond\pink n9 faster since its row-staggered version is the fastest but I couldn't. Then I went to analyze the diamond\ e9 layout and I thought, "What if I tried to create the right side layout from the n9 versions of diamond\red, diamond\black and diamond\pink while still having 'E' as the thumb key for diamond\ e9?"
 
 There was space to move the H key above the O key like it was diamond\pink, that then gave room to put N on the home row so I moved a few keys around and that's how the initial version appeared.
 
