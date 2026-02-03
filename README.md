@@ -507,11 +507,14 @@ I used a Keychron K15 Max Alice Layout Keyboard to learn the e9 and n9 versions 
 diamond\\black n9 (second latest version before swapping the ; and Z keys), unlocked all keys on January 30th 2026:
 ![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_black_n9_1.jpg)
 
-diamond\\pink n9 (second latest version before swapping the X and K keys), unlocked all keys on January 31st 2026:
+diamond\\pink n9 (third latest version before swapping the X and K keys), unlocked all keys on January 31st 2026:
 ![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_pink_n9_1.jpg)
 
-diamond\\pink n9 (latest version), unlocked all keys on February 2nd 2026:
+diamond\\pink n9 (second latest version before overhaul), unlocked all keys on February 2nd 2026:
 ![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_pink_n9_2.jpg)
+
+diamond\\pink n9 (latest version), finished with J key left to unlock on February 3rd 2026:
+![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_pink_n9_3.jpg)
 
 diamond\\red n9 (latest version), finished with J left to unlock on January 31st 2026:
 ![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_red_n9_1.jpg)
@@ -540,9 +543,11 @@ started on day 4 (for all layouts)
 took 1 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,Z,V,X,Q,J.
 restarted
 took 1 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,Z,V,X,Q,J.
+restarted
+took 1 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,Z,V,X,Q,J
 
-currently day 2 (for this layout) - All keys unlocked! (twice)
-finished on day 7 (for all layouts)
+currently day 3 (for this layout) - All keys unlocked! (twice)
+finished on day 8 (for all layouts)
 
 3:
 diamond\red n9
