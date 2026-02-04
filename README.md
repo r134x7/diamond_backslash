@@ -20,6 +20,7 @@ There are currently fifteen diamond\ mirroring keyboard layouts, seven that are 
 - diamond\violet e9
 - diamond\green n9
 - diamond\orange e9
+- diamond\crimson n9
 
 The kanata.kbd file is to be used with Kanata which was created by [jtroo, link to Kanata repo here: https://github.com/jtroo/kanata](https://github.com/jtroo/kanata)
 
@@ -318,13 +319,27 @@ This one is like diamond\violet but for those that prefer three vowels on the ho
 
 The kbd file for diamond\green is inside the proof of concepts folder under diamond_backslash_green
 
-## diamond\orange (ergonomic) mirroring keyboard layout
+## diamond\orange e9 mirroring keyboard layout
 
 This diamond\ mirroring keyboard layout is different because it can only work on ergonomic keyboards since it strictly requires the use of a thumb key assigned to the letter 'E' 
 
+Note: I have learned this layout using an Alice Layout keyboard from Keychron.
+
 Here is diamond\orange (ergonomic)
 
-![image of diamond\\orange ergonomic keyboard layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_orange_ergonomic_heatmap.jpg)
+![image of diamond\\orange ergonomic keyboard layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_orange_e9_latest_heatmap)
+
+See the description file for diamond\orange (ergonomic) in the proof_of_concepts folder inside another folder titled "diamond_backslash_orange ergonomic version" in this repository.
+
+## diamond\crimson n9 mirroring keyboard layout
+
+This diamond\ mirroring keyboard layout is different because it can only work on ergonomic keyboards since it strictly requires the use of a thumb key assigned to the letter 'N' 
+
+Note: I have learned this layout using an Alice Layout keyboard from Keychron.
+
+Here is diamond\crimson (ergonomic)
+
+![image of diamond\\crimson ergonomic keyboard layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_crimson_n9_ergonomic_heatmap.jpg)
 
 See the description file for diamond\orange (ergonomic) in the proof_of_concepts folder inside another folder titled "diamond_backslash_orange ergonomic version" in this repository.
 
@@ -522,6 +537,9 @@ diamond\\red n9 (latest version), finished with J left to unlock on January 31st
 diamond\\orange e9 (latest version), finished with Q and J left to unlock on February 2nd 2026:
 ![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_orange_e9_1.jpg)
 
+diamond\\crimson n9, unlocked all keys on February 5th 2026:
+![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_crimson_1.jpg)
+
 ---
 
 Adding to the above, I kept track of the amount of days I spent learning each layout.
@@ -578,3 +596,11 @@ took 1 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P
 took 2 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,Z,V,X,Q
 
 currently day 6 (for this layout) - 2 letters left to unlock
+
+7:
+diamond\crimson n9
+started on day 9 (for all layouts)
+took 1 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,Z,V,X,Q,J.
+
+currently day 1 (for this layout) - All keys unlocked!
+finished on day 9 (for all layouts)
