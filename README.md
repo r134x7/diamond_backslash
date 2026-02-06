@@ -4,7 +4,7 @@ diamond\ (read as diamond backslash) is a mirroring keyboard layout.
 
 Currently only works by using a kbd file with the program Kanata, the kanata.kbd file is located in the proof of concept folder. Please read the file as there are bugs listed in it.
 
-There are currently fifteen diamond\ mirroring keyboard layouts, seven that are optimized for row-staggered keyboards, those same seven layouts then optimized for ergonomic keyboards and then one layout that only works on ergonomic keyboards (including Alice Layout Keyboards) which you can view in the proof_of_concepts folder of this repository:
+There are currently eighteen diamond\ mirroring keyboard layouts, seven that are optimized for row-staggered keyboards, those same seven layouts then optimized for ergonomic keyboards and then one layout that only works on ergonomic keyboards (including Alice Layout Keyboards) which you can view in the proof_of_concepts folder of this repository:
 - diamond\
 - diamond\red
 - diamond\black
@@ -21,6 +21,8 @@ There are currently fifteen diamond\ mirroring keyboard layouts, seven that are 
 - diamond\green n9
 - diamond\orange e9
 - diamond\crimson n9
+- diamond\cyan r9
+- diamond\magenta r9
 
 The kanata.kbd file is to be used with Kanata which was created by [jtroo, link to Kanata repo here: https://github.com/jtroo/kanata](https://github.com/jtroo/kanata)
 
@@ -243,10 +245,6 @@ There wasn't an upper row set of keys that rolled off the tongue like with qwert
 
 It is currently set up as a kdb file to use with the program called [Kanata (link: https://github.com/jtroo/kanata)](https://github.com/jtroo/kanata) (which is like QMK if you could use QMK on any keyboard). Please use the version in the proof of concept folder but read the bugs in the kanata.kbd file. A reminder that my diamond\ repo on this current page is currently MIT licensed (see the MIT license on this repo for details if you don't know what it does, go to the LICENSE.md file and please read it) so you are free to edit the kdb file on your computer for your personal use and preferences such as having Dvorak for your secondary layout instead of QWERTY for example.
 
-## diamond\ Split Spacebar version and diamond\ Ergonomic version
-
-I have added these versions into their own folders in this repository to describe how they work and any analytical data they provide and what keyboards they require.
-
 ## diamond\red mirroring keyboard layout
 
 I have added a new keyboard layout alongside diamond\ 
@@ -327,9 +325,9 @@ Note: I have learned this layout using an Alice Layout keyboard from Keychron.
 
 Here is diamond\orange (ergonomic)
 
-![image of diamond\\orange ergonomic keyboard layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_orange_e9_latest_heatmap)
+![image of diamond\\orange e9 version latest heatmap](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_orange_e9_latest_heatmap.jpg)
 
-See the description file for diamond\orange (ergonomic) in the proof_of_concepts folder inside another folder titled "diamond_backslash_orange ergonomic version" in this repository.
+See the description file for diamond\orange e9 in the proof_of_concepts folder in this repository.
 
 ## diamond\crimson n9 mirroring keyboard layout
 
@@ -339,9 +337,33 @@ Note: I have learned this layout using an Alice Layout keyboard from Keychron.
 
 Here is diamond\crimson (ergonomic)
 
-![image of diamond\\crimson ergonomic keyboard layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_crimson_n9_ergonomic_heatmap.jpg)
+![image of diamond\\crimson n9 version heatmap](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_crimson_n9_heatmap.jpg)
 
-See the description file for diamond\orange (ergonomic) in the proof_of_concepts folder inside another folder titled "diamond_backslash_orange ergonomic version" in this repository.
+See the description file for diamond\crimson n9 in the proof_of_concepts folder in this repository.
+
+## diamond\cyan r9 mirroring keyboard layout
+
+This diamond\ mirroring keyboard layout is different because it can only work on ergonomic keyboards since it strictly requires the use of a thumb key assigned to the letter 'R' 
+
+Note: I have learned this layout using an Alice Layout keyboard from Keychron.
+
+Here is diamond\cyan r9
+
+![image of diamond\\cyan r9 keyboard layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_cyan_r9_heatmap.jpg)
+
+See the description file for diamond\cyan r9 in the proof_of_concepts folder in this repository.
+
+## diamond\magenta r9 mirroring keyboard layout
+
+This diamond\ mirroring keyboard layout is different because it can only work on ergonomic keyboards since it strictly requires the use of a thumb key assigned to the letter 'R' 
+
+Note: I have learned this layout using an Alice Layout keyboard from Keychron.
+
+Here is diamond\magenta r9
+
+![image of diamond\\magenta r9 keyboard layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_magenta_r9_heatmap.jpg)
+
+See the description file for diamond\magenta r9 in the proof_of_concepts folder in this repository.
 
 ## keyboard layout stats for all diamond\ mirroring keyboard layouts on row-staggered keyboards
 
@@ -362,7 +384,30 @@ Part 4
 Part 5
 ![image of all diamond\\ keyboard layout stats part 5](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keyboard_stats_10.jpg)
 
+## keyboard layout stats for all diamond\ mirroring keyboard layouts that require a thumb key/split spacebar
+
+These are stats only for the keyboard layouts that use a split space bar or a thumb key.
+
+I use a Keychron K15 Max Alice Layout keyboard to learn the layouts below.
+
+Part 1
+![image of all diamond\\ keyboard layout stats part 1](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keyboard_stats_11.jpg)
+
+Part 2
+![image of all diamond\\ keyboard layout stats part 2](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keyboard_stats_12.jpg)
+
+Part 3
+![image of all diamond\\ keyboard layout stats part 3](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keyboard_stats_13.jpg)
+
+Part 4
+![image of all diamond\\ keyboard layout stats part 4](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keyboard_stats_14.jpg)
+
+Part 5
+![image of all diamond\\ keyboard layout stats part 5](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keyboard_stats_15.jpg)
+
 ## Which diamond\ layout to choose?
+
+The below summary is outdated as my list of layouts has grown. I will need time later to update what to use.
 
 To summarize:
 - diamond\\ and diamond\\black are similar.

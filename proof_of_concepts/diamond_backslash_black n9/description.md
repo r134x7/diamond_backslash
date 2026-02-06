@@ -4,13 +4,13 @@ This is a version of the diamond\black mirroring keyboard layout to be used with
 
 Here is a screenshot of the layout by using the analytical data from the webpage [created by cyanophage on github.](https://cyanophage.github.io/)
 
-![image of diamond\\black ergonomic version heatmap](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_black_ergonomic_heatmap.jpg)
+![image of diamond\\black n9 version heatmap](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_black_n9_heatmap.jpg)
 
-![image of diamond\\black ergonomic version bigram frequency](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_black_ergonomic_bigram_frequency.jpg)
+![image of diamond\\black n9 version bigram frequency](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_black_n9_bigram_frequency.jpg)
 
 Note that you cannot remap keys on the above image, only swap them around.
 
-Just like the diamond\ ergonomic version, minimal changes are made to the diamond\black ergonomic layout to improve the performance of the layout in ergonomic keyboards.
+Just like the diamond\ e9 version, minimal changes are made to the diamond\black n9 layout to improve the performance of the layout in ergonomic keyboards.
 
 Since HD Promethium was an ergonomic keyboard layout I mentioned in the backstory of my readme in the repository, here are screenshots to show a comparison between HD Promethium and all of the diamond\ mirroring keyboard layout ergonomic versions:
 
