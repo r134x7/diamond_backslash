@@ -585,6 +585,9 @@ diamond\\orange e9 (latest version), finished with Q and J left to unlock on Feb
 diamond\\crimson n9, unlocked all keys on February 5th 2026:
 ![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_crimson_1.jpg)
 
+diamond\\cyan r9, unlocked all keys on February 9th 2026:
+![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_cyan_r9_1.jpg)
+
 ---
 
 Adding to the above, I kept track of the amount of days I spent learning each layout.
@@ -649,3 +652,13 @@ took 1 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,Z,V,X,Q,J.
 
 currently day 1 (for this layout) - All keys unlocked!
 finished on day 9 (for all layouts)
+
+8:
+diamond\cyan r9
+started on day 10 (for all layouts)
+took 1 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C
+took 2 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B
+took 3 days to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,Z,V,X,Q,J.
+
+currently day 3 (for this layout) - 1 letter left to unlock
+finished on day 12 (for all layouts)
