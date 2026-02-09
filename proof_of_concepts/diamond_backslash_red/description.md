@@ -31,5 +31,5 @@ screenshot taken from keybr dot com.
 diamond\red (old version), finished with J left to unlock on January 15th 2026:
 ![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_red_1.jpg)
 
-diamond\red (second latest version before swapping the J and V keys), finished with J left to unlock on January 24th 2026:
+diamond\red (third latest version), finished with J left to unlock on January 24th 2026:
 ![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_red_2.jpg)

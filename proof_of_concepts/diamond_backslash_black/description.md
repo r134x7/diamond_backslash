@@ -31,5 +31,5 @@ screenshot taken from keybr dot com.
 diamond\black (old version), finished with J left to unlock on January 12th 2026:
 ![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_black_1.jpg)
 
-diamond\black (latest version), unlocked all keys on January 26th 2026:
+diamond\black (second latest version), unlocked all keys on January 26th 2026:
 ![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_black_2.jpg)
