@@ -4,7 +4,7 @@ diamond\ (read as diamond backslash) is a mirroring keyboard layout.
 
 Currently only works by using a kbd file with the program Kanata, the kanata.kbd file is located in the proof of concept folder. Please read the file as there are bugs listed in it.
 
-There are currently eighteen diamond\ mirroring keyboard layouts, seven that are optimized for row-staggered keyboards, those same seven layouts then optimized for ergonomic keyboards and then one layout that only works on ergonomic keyboards (including Alice Layout Keyboards) which you can view in the proof_of_concepts folder of this repository:
+There are currently twenty diamond\ mirroring keyboard layouts, eight that are optimized for row-staggered keyboards, those same eight layouts are then optimized for ergonomic keyboards and then four layouts that only work on ergonomic keyboards (including Alice Layout Keyboards) which you can view in the proof_of_concepts folder of this repository:
 - diamond\
 - diamond\red
 - diamond\black
@@ -12,6 +12,7 @@ There are currently eighteen diamond\ mirroring keyboard layouts, seven that are
 - diamond\blue
 - diamond\violet
 - diamond\green
+- diamond\yellow
 - diamond\ e9
 - diamond\red n9
 - diamond\black n9
@@ -23,6 +24,7 @@ There are currently eighteen diamond\ mirroring keyboard layouts, seven that are
 - diamond\crimson n9
 - diamond\cyan r9
 - diamond\magenta r9
+- diamond\yellow r9
 
 The kanata.kbd file is to be used with Kanata which was created by [jtroo, link to Kanata repo here: https://github.com/jtroo/kanata](https://github.com/jtroo/kanata)
 
@@ -316,6 +318,18 @@ Here is diamond\green
 This one is like diamond\violet but for those that prefer three vowels on the home row and low same finger bigrams like diamond\\ and diamond\\black.
 
 The kbd file for diamond\green is inside the proof of concepts folder under diamond_backslash_green
+
+## diamond\yellow mirroring keyboard layout
+
+I have added a new keyboard layout alongside diamond\\, diamond\\red, diamond\\black, diamond\\pink, diamond\\blue, diamond\\violet and diamond\\green. 
+
+Here is diamond\yellow
+
+![image of diamond\\violet keyboard layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/diamond_backslash_yellow.png)
+
+This one is for really low redirect rates.
+
+The kbd file for diamond\yellow is inside the proof of concepts folder under diamond_backslash_yellow
 
 ## diamond\orange e9 mirroring keyboard layout
 
