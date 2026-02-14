@@ -4,7 +4,7 @@ diamond\ (read as diamond backslash) is a mirroring keyboard layout.
 
 Currently only works by using a kbd file with the program Kanata, the kanata.kbd file is located in the proof of concept folder. Please read the file as there are bugs listed in it.
 
-There are currently twenty diamond\ mirroring keyboard layouts, eight that are optimized for row-staggered keyboards, those same eight layouts are then optimized for ergonomic keyboards and then four layouts that only work on ergonomic keyboards (including Alice Layout Keyboards) which you can view in the proof_of_concepts folder of this repository:
+There are currently twenty-one diamond\ mirroring keyboard layouts, nine that are optimized for row-staggered keyboards, those same nine layouts are then optimized for ergonomic keyboards and then three layouts that only work on ergonomic keyboards (including Alice Layout Keyboards) which you can view in the proof_of_concepts folder of this repository:
 - diamond\
 - diamond\red
 - diamond\black
@@ -12,6 +12,7 @@ There are currently twenty diamond\ mirroring keyboard layouts, eight that are o
 - diamond\blue
 - diamond\violet
 - diamond\green
+- diamond\magenta
 - diamond\yellow
 - diamond\ e9
 - diamond\red n9
@@ -472,6 +473,9 @@ diamond\\violet, finished with J left to unlock on January 25th 2026:
 diamond\\green, finished with J left to unlock on January 21st 2026:
 ![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_green_1.jpg)
 
+diamond\yellow, finished with Q and J left to unlock on February 15th 2026:
+![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_yellow_1.jpg)
+
 ---
 
 Adding to the above, I kept track of the amount of days I spent learning each layout. It is in chronological order with diamond\\ being the first layout I was learning on keybr dot com on day one to finishing with diamond\\pink (latest version) on day 40.
@@ -571,6 +575,15 @@ diamond\\pink (latest version)
 - took 1 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,V,Q,J.
 - currently day 1 - All keys unlocked!
 - finished on day 40 (for all layouts)
+
+11:
+diamond\yellow
+- took 1 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H
+- took 2 day to reach E,N,I,A,R,L,T,O,S,U,D,Y,C,G,H,P,M,K,B,W,F,V,Q
+
+currently day 2 - 2 letters left to unlock
+
+finished on day 42 (for all layouts)
 
 ## Proof of having learned my layouts part 2: e9 and n9 versions
 
