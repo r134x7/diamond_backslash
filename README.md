@@ -615,6 +615,9 @@ diamond\\crimson n9, unlocked all keys on February 5th 2026:
 diamond\\cyan r9, unlocked all keys on February 9th 2026:
 ![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_cyan_r9_1.jpg)
 
+diamond\\magenta r9 (latest version), finished with J key left to unlock on February 24th 2026:
+![screenshot from keybr for learning the above layout](https://raw.githubusercontent.com/r134x7/diamond_backslash/refs/heads/main/images/keybr_diamond_backslash_magenta_r9_1.jpg)
+
 ---
 
 Adding to the above, I kept track of the amount of days I spent learning each layout.
